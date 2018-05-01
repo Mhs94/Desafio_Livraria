@@ -7,3 +7,5 @@ Autor varchar(50) NOT NULL ,
 Editora varchar(50) NOT NULL ,  
 AnoPublicacao int NULL   
 )  
+
+***** Mudar a connectionString no arquivo appsettings.json no projeto Livraria_Back
